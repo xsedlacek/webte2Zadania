@@ -1,0 +1,45 @@
+head, body {
+    background-image: url(wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-position: right;
+    background-attachment: fixed;
+
+}
+
+
+#map, #streetView {
+    height: 50%;
+    width: 90%;
+    margin: auto;
+}
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html,body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: lightslategray;
+}
+h3{
+    text-align: center;
+}
+.moznosti{
+    width: 30%;
+    margin-left: 36%;
+}
+.modal-btn{
+    margin-left: 47%;
+}
+#location{
+    width: 60%;
+    margin-left: 22%;
+}
